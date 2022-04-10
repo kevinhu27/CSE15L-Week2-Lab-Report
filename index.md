@@ -9,6 +9,8 @@
 * Run 'ssh cs15lsp22zzz@ieng6.ucsd.edu' in VScode terminal, replacing 'zzz' with course id
 * Reset/set password for cs15lsp22 account
 
+## Trying Commands
+
 
 
 

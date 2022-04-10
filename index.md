@@ -19,4 +19,9 @@
 * Run scp to copy WhereAmI.java from local machine to SSH server
 * Run ssh and ls to ensure the file has been copied
 
-
+## Setting an SSH Key
+![sshkey](https://user-images.githubusercontent.com/78109412/162643247-aa86d007-8b2c-446c-8a1a-cef00f6bc28d.JPG)
+![sshcopy](https://user-images.githubusercontent.com/78109412/162643252-9146fc81-9406-48bd-91d2-cccce300d747.JPG)
+* Generate a SSH keys using ssh-keygen
+* Specify the directory for where the generated files will be stored
+* Create .ssh directory on SSH server and copy public key over from local machine using scp

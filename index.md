@@ -14,6 +14,7 @@
 * Run terminal commands such as cd, ls, cp, and cat
 * Pass different arguments to see how the output changes
 
+## Moving Files over SSH with scp
 ![scp](https://user-images.githubusercontent.com/78109412/162642531-896850f6-95c8-4699-8dcd-7725034cc7b9.JPG)
 * Run scp to copy WhereAmI.java from local machine to SSH server
 * Run ssh and ls to ensure the file has been copied

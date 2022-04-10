@@ -24,4 +24,6 @@
 ![sshcopy](https://user-images.githubusercontent.com/78109412/162643252-9146fc81-9406-48bd-91d2-cccce300d747.JPG)
 * Generate a SSH keys using ssh-keygen
 * Specify the directory for where the generated files will be stored
-* Create .ssh directory on SSH server and copy public key over from local machine using scp
+* Create .ssh directory on SSH server 
+* Copy public key over from local machine using scp
+

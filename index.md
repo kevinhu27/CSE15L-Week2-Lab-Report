@@ -27,3 +27,8 @@
 * Create .ssh directory on SSH server 
 * Copy public key over from local machine using scp
 
+## Optimizing Remote Running
+![optimize](https://user-images.githubusercontent.com/78109412/162643778-b2af7360-3de9-4164-a0da-dbb4e6bc2981.JPG)
+* Make a local edit to WhereAmI.java
+* Run scp to move the locally edited file to SSH server
+* Run ssh along with compiling and running WhereAmI.java
